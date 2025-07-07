@@ -46,8 +46,10 @@ This is wwhere we can include our Data for cleaning, transforming, visualizing a
 
 ```
 B3*C3
-```
+
 ### Visualization
 ```
 Result
-Excel Question 1,2,3 and 4
+Excel Question 1,2,3
+![Amazon question 1,2,3](https://github.com/user-attachments/assets/ac422962-a4a7-4229-a327-49e49bb50df4)
+
