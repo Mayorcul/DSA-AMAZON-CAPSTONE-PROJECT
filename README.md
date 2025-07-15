@@ -2,7 +2,7 @@
 
 ### Project Tittle: Amazon Product Review Analysis
 
-  # Introduction
+  # Project Description
   # Data Sources
   # Tools Used
   # Data Cleaning and Preparation
@@ -10,9 +10,11 @@
   [Data Analysis](#data-analysis)
   # Conclusion
 
-### Introduction
+### 
 ---
-The dataset contains information scraped from Amazon product pages, including: Product details: name, category, price, discount, and ratings Customer engagement: user reviews, titles, and content Each row represents a unique product, with aggregated reviewer data stored as comma-separated values
+## Project Description
+This project is part of the DSA Data Analysis Capstone and focuses on performing Exploratory Data Analysis (EDA) on Amazon product review data. The objective is to extract insights that can inform product development, pricing strategy, and customer engagement using Microsoft Excel.
+
 
 ## Data Sources
 ---
@@ -22,7 +24,9 @@ The primary source of Data used here DSA Capstone Dataset CSV and it is a capsto
 ---
 - Ms Excel: for Data Cleaning, transforming and analysis and visualization
 - Pivot table and creating a Dashboard 
-- GitHub for portfolio Building
+- Excel Formulas
+- Calculated Columns
+- Excel Dashboard Design
 
 
 ## Data Cleaning and Preparation
@@ -39,13 +43,6 @@ It involves the exploring of data to answer all question about the data such as;
  - What is the total number of reviews per category 
  - Which products have the highest average ratings 
  - What is the average actual price vs the discounted price by category
-
-### Data Analysis
-```
-This is wwhere we can include our Data for cleaning, transforming, visualizing and analysis in Excel;
-
-```
-B3*C3
 
 ### Visualization
 ```
